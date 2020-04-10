@@ -21,4 +21,4 @@ label.en_US.createAnotherBug="Create Another Bug";
 label.en_US.fieldMandatory=" is mandatory";
 label.en_US.cannotBeEmpty=" cannot be empty";
 label.en_US.incorrectValue="Incorrect Value";
-label.eu_US.incorrect="testing";
+
