@@ -20,6 +20,6 @@ label.en_US.createAnotherTask="Create Another Task";
 label.en_US.createAnotherBug="Create Another Bug";
 label.en_US.fieldMandatory=" is mandatory";
 label.en_US.cannotBeEmpty=" cannot be empty";
-label.en_US.incorrectValue="Incorrect Valu";
+label.en_US.incorrectValue="Incorrect Val";
 
 
